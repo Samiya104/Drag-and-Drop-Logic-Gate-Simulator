@@ -119,6 +119,6 @@ python logic_simulator.py
 5. Open a Pull Request
 
 ## Contact
-Your Name - qasms01@pfw.edy
+Your Name - qasms01@pfw.edu
 
-Project Link:[https://github.com/yourusername/logic-gate-simulator](https://github.com/Samiya104/Drag-and-Drop-Logic-Gate-Simulator/edit/main/README_game.md)
+Project Link:[https://github.com/Samiya104/Drag-and-Drop-Logic-Gate-Simulator](https://github.com/Samiya104/Drag-and-Drop-Logic-Gate-Simulator)
