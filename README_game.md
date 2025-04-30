@@ -118,10 +118,7 @@ python logic_simulator.py
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
-Your Name - your.email@example.com
+Your Name - qasms01@pfw.edy
 
-Project Link: [https://github.com/yourusername/logic-gate-simulator](https://github.com/yourusername/logic-gate-simulator)
+Project Link:[https://github.com/yourusername/logic-gate-simulator](https://github.com/Samiya104/Drag-and-Drop-Logic-Gate-Simulator/edit/main/README_game.md)
